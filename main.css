@@ -37,13 +37,14 @@ a{
 }
 
 .bottomLinks{
-
+font-size: 1.25em;
   margin-left: auto;
   display:inline-block !important;
 
 }
 .bottomLinks img{
   padding-right:10px;
+      height: 48px;
 }
 
 @media screen and (min-width: 500px){
